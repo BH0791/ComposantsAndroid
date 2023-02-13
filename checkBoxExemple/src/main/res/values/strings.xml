@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">ComposantsAndroid</string>
+    <string name="app_name">Exemple CheckBox</string>
+    <string name="quels_langages_de_programmation_aimez_vous">Quels langages de programmation aimez-vous ?</string>
+    <string name="tous_choisir">(Tous)</string>
+    <string name="c_cpp">C/C++</string>
+    <string name="java">Java</string>
+    <string name="afficher">Afficher</string>
+    <string name="groovy">Groovy</string>
 </resources>
